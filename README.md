@@ -1,6 +1,6 @@
-# 2FAS Linux Applet
+# 2FAS Auth Linux Applet
 
-A system tray applet for Linux that integrates with the [2FAS](https://2fas.com) phone app to deliver 2FA codes to your desktop.
+A system tray applet for Linux that integrates with the [2FAS Auth](https://2fas.com) phone app to deliver 2FA codes to your desktop.
 
 ## How it works
 

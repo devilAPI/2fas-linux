@@ -10,6 +10,8 @@ A system tray applet for Linux that integrates with the [2FAS Auth](https://2fas
 
 Codes are decrypted locally using an RSA keypair stored in `~/.config/2fas-applet/config.json`. Nothing is sent to any third party beyond the official 2FAS API.
 
+The logic behind is from the open-source 2FAS Browser Add-On.
+
 ## Requirements
 
 - Linux with a StatusNotifierItem-compatible tray (Waybar, KDE Plasma, etc.)
